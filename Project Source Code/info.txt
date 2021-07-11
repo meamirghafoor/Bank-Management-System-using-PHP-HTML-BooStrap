@@ -1,0 +1,21 @@
+About user of this application
+
+Super Admin:
+Username: meamirghafoor@gmail.com
+Passowrd: 123321
+
+Co-Admin:
+Username: amirghafoorcss@gmail.com
+Password: 12344321
+
+Other Super admin can add more co-admins and employee and all employee have differnet gui interface then admins and super admin. Co-admins have also
+different gui interface and Super Admin have all features and different gui interface.
+
+
+About:
+Name: Amir Ghafoor
+Supervisor: Mr Salman Anwar
+Project Language : PHP,HTML,CSS,JavaScript,SQL
+Database: Xampp Server
+For Contect: meamirghafoor@gmail.com
+Thank you

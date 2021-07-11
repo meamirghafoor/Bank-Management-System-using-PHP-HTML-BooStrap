@@ -1,0 +1,28 @@
+<?php
+use PHPMailer\PHPMailer\PHPMailer;
+require_once 'phpmailer/Exception.php';
+require_once 'phpmailer/PHPMailer.php';
+require_once 'phpmailer/SMTP.php';
+function email_send($address,$header,$msg)
+{
+           $mail = new PHPMailer(true);
+           $mail->IsSMTP();
+           $mail->Mailer = "smtp";
+           $mail->Host = "ssl://smtp.gmail.com";
+           $mail->Port = 465;
+           $mail->SMTPAuth = true;
+           $mail->Username = "sbl.pk01@gmail.com";
+           $mail->Password = "Alliswell*";
+           $mail->AddAddress($address);
+           $mail->SetFrom("sbl.pk01@gmail.com", "Sky Bank Limited");
+           $mail->Subject  = $header;
+           $mail->Body     = $msg;
+           if(!$mail->Send()) {
+           echo 'Message was not sent.';
+           echo 'Mailer error: ' . $mail->ErrorInfo;
+           } else {
+           echo 'Message has been sent.';
+           }
+ }
+?>
+
