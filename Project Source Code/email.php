@@ -11,8 +11,8 @@ function email_send($address,$header,$msg)
            $mail->Host = "ssl://smtp.gmail.com";
            $mail->Port = 465;
            $mail->SMTPAuth = true;
-           $mail->Username = "sbl.pk01@gmail.com";
-           $mail->Password = "Alliswell*";
+           $mail->Username = "your-email@gmail.com";// enter your gmail account 
+           $mail->Password = "your-email-password"; //enter your email password
            $mail->AddAddress($address);
            $mail->SetFrom("sbl.pk01@gmail.com", "Sky Bank Limited");
            $mail->Subject  = $header;
