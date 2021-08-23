@@ -2,7 +2,7 @@
 This project is develop using php, html, javaScript, Bootstrap and CSS
 To run this project:
 > download zip file
-> extract zip file and paste soucre code folder in xammp server htdoc folder and use
+> extract zip file and paste soucre code in xammp server htdoc folder
 # Please first to provide your email id and password in email.php
 > Beacuse this project use PHP Mailer to send email on any task.
 > After this login into your email account that you have provide in file
