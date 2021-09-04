@@ -31,6 +31,6 @@ To run this project:
 ![ad_emp](https://user-images.githubusercontent.com/77319741/132099337-daad5e49-b64e-4d3c-9e9c-9e57db7d1625.JPG)
 
 # Employee Dashboard
-![emp](https://user-images.githubusercontent.com/77319741/132099339-e2c568f3-beb0-4c92-854b-8f1435f2df9d.JPG)
-
 ![emp_d](https://user-images.githubusercontent.com/77319741/132099412-9ad9f432-d2ae-440a-9207-32fce6a7314f.JPG)
+
+![emp](https://user-images.githubusercontent.com/77319741/132099339-e2c568f3-beb0-4c92-854b-8f1435f2df9d.JPG)
