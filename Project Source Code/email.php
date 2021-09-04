@@ -14,7 +14,7 @@ function email_send($address,$header,$msg)
            $mail->Username = "your-email@gmail.com";// enter your gmail account 
            $mail->Password = "your-email-password"; //enter your email password
            $mail->AddAddress($address);
-           $mail->SetFrom("sbl.pk01@gmail.com", "Sky Bank Limited");
+           $mail->SetFrom("your-email@gmail.com", "Sky Bank Limited");
            $mail->Subject  = $header;
            $mail->Body     = $msg;
            if(!$mail->Send()) {
