@@ -32,4 +32,5 @@ To run this project:
 
 # Employee Dashboard
 ![emp](https://user-images.githubusercontent.com/77319741/132099339-e2c568f3-beb0-4c92-854b-8f1435f2df9d.JPG)
-![Uploading emp_d.JPG…]()
+
+![emp_d](https://user-images.githubusercontent.com/77319741/132099412-9ad9f432-d2ae-440a-9207-32fce6a7314f.JPG)
