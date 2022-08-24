@@ -1,21 +1,32 @@
-# Bank-Management-System-using-PHP-HTML-BooStrap
+# Bank Management System
 This project is develop using php, html, javaScript, Bootstrap and CSS
+<br>
 To run this project:
-> download zip file
-> extract zip file and paste soucre code in xammp server htdoc folder
+<br>
+> Download zip file
+<br>
+> Extract zip file and paste soucre code in xammp server htdoc folder
+<br>
 # Please first to provide your email id and password in email.php
 > Beacuse this project use PHP Mailer to send email on any task.
+<br>
 > After this login into your email account that you have provide in file
+<br>
 > Go to setting and open less secure app access setting otherwise you will face error.
 # Features
 > Manage balnce record
+<br>
 > User will deposit Money.
+<br>
 > Withdraw
+<br>
 > Transection
 > After any action like withdraw etc then a proper email will send on account holder email.
 # Users
 > Super Admin
+<br>
 > Co-Admin
+<br>
 > Employee
 # Templates
 # Login
