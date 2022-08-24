@@ -1,9 +1,8 @@
 # Bank Management System #
-This project is develop using php, html, javaScript, Bootstrap and CSS
-
+This project is develop using php, html, javaScript, Bootstrap and CSS.
 To run this project:
-> Download zip file
-> Extract zip file and paste soucre code in xammp server htdoc folder
+1. Download zip file
+2. Extract zip file and paste soucre code in xammp server htdoc folder
 # Please first to provide your email id and password in email.php
 > Beacuse this project use PHP Mailer to send email on any task.
 > After this login into your email account that you have provide in file
